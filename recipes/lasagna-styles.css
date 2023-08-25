@@ -1,0 +1,48 @@
+.card {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.header-line {
+    width: 35%;
+    height: 5px;
+    background-color: blueviolet;
+    color: white;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    background-color: chocolate;
+    padding: 10px;
+    color: white;
+    margin: 2px;
+}
+
+ol {
+    /* list-style-type: none; */
+    padding: 0;
+    text-align: left;
+}
+
+ol li {
+    width: 350px;
+    margin: 10px auto;
+}
+
+ol li span {
+    display: inline-block;
+    background-color:coral;
+    padding: 10px;
+    color: white;
+}
